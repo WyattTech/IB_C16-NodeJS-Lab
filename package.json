@@ -1,0 +1,16 @@
+{
+  "name": "nodejslab",
+  "version": "1.0.0",
+  "description": "Covalence lab on NodeJS",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AWyatt",
+  "license": "MIT",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "image-downloader": "^4.1.0",
+    "request-promise": "^4.2.6"
+  }
+}
